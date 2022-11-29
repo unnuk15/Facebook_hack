@@ -191,7 +191,11 @@ def Main():
                         help="Specify TARGET FACEBOOK PROFILE URL to get his ID")
    parse.add_option("-u","-U","--update","--UPDATE", dest="update", action="store_true", default=False)
    (options,args) = parse.parse_args()
+<<<<<<< HEAD
    faceboom = FaceBoom()
+=======
+   facebook_hack = Facebook_havk()
+>>>>>>> parent of 679a36a (Update facebook_hack.py)
    target = options.target
    wordlist = options.wordlist
    single_passwd = options.single
